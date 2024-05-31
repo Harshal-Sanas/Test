@@ -1,2 +1,2 @@
 # Test
-Tutorial of GitHUB basics
+Tutorial of GitHUB basic
